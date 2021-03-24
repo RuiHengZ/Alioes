@@ -17,7 +17,7 @@ public class EduConfig {
 	    }
 
 	    /**
-	     * 分页插件
+	     * 分页插件……
 	     */
 	    @Bean
 	    public PaginationInterceptor paginationInterceptor() {
